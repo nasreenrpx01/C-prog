@@ -5,7 +5,7 @@ int power(int n,int y);
 int main(){
     int n,y;
     printf("Enter the number: \n");
-    scanf("%d",&n);C
+    scanf("%d",&n);
     printf("Enter the power: \n");
     scanf("%d",&y);
 
